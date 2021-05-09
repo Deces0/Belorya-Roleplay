@@ -6,7 +6,7 @@ exports.run = async (client, message, args) => {
     let kişi = message.author
 if(db.has(`${message.guild.id}_${kişi.id}_yenipara`) === true) return message.reply('Paranı çoktan almışsın!')
 message.reply('Aramıza hoşgeldiniz! Paranız eklendi!')
-qdb.add(`${message.guild.id}_${kişi.id}_bakiye`, 3000)
+qdb.add(`${message.guild.id}_${kişi.id}_bakiye`, 5000)
 db.set(`${message.guild.id}_${kişi.id}_yenipara`, true)
 };
 
