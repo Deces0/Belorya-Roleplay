@@ -59,98 +59,98 @@ db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
                         let miktar = 5250
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837065337194414080')) {
-                        let miktar = 12000
+                    } else if(message.member.roles.cache.has('825913084447031338')) {
+                        let miktar = 5000
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
                     } 
                            //    Kolluk Kuvvetler ve İstihbarat    //
-                    else if(message.member.roles.cache.has('837071450770243655')) {
-                        let miktar = 10000
+                    else if(message.member.roles.cache.has('825913085558652938')) {
+                        let miktar = 4750
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837199933122805781')) {
-                        let miktar = 70000
+                    } else if(message.member.roles.cache.has('825913077769043989')) {
+                        let miktar = 4500
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('836963724010324036')) {
-                        let miktar = 20000
+                    } else if(message.member.roles.cache.has('825913087130730556')) {
+                        let miktar = 4250
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837032786899894273')) {
-                        let miktar = 18000
+                    } else if(message.member.roles.cache.has('825913088502267925')) {
+                        let miktar = 4000
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837203821100269608')) {
-                        let miktar = 17000
+                    } else if(message.member.roles.cache.has('825913089706033185')) {
+                        let miktar = 1000
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837229991107887155')) {
-                        let miktar = 16000
+                    } else if(message.member.roles.cache.has('825913094227361802')) {
+                        let miktar = 8000
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837232393583722506')) {
-                        let miktar = 15000
+                    } else if(message.member.roles.cache.has('825913094907625542')) {
+                        let miktar = 6500
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
                     }
                             //    Osmanlı Silahlı Kuvvetleri    //
-                    else if(message.member.roles.cache.has('837230009151651851')) {
-                        let miktar = 14000
+                    else if(message.member.roles.cache.has('825913097138339850')) {
+                        let miktar = 5500
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837232648736079873')) {
-                        let miktar = 13000
+                    } else if(message.member.roles.cache.has('825913111042326528')) {
+                        let miktar = 8500
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837232644541775892')) {
-                        let miktar = 12000
-message.channel.send('Maaşın Eklendi!')
-db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837232776616607754')) {
-                        let miktar = 11000
-message.channel.send('Maaşın Eklendi!')
-db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837233337432408074')) {
-                        let miktar = 10000
-message.channel.send('Maaşın Eklendi!')
-db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837233935150874695')) {
-                        let miktar = 8000
-message.channel.send('Maaşın Eklendi!')
-db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837234629483823124')) {
+                    } else if(message.member.roles.cache.has('825913111755227217')) {
                         let miktar = 7000
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837233591750230056')) {
+                    } else if(message.member.roles.cache.has('825913112636948510')) {
+                        let miktar = 6000
+message.channel.send('Maaşın Eklendi!')
+db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
+                    } else if(message.member.roles.cache.has('825913113568084058')) {
+                        let miktar = 5500
+message.channel.send('Maaşın Eklendi!')
+db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
+                    } else if(message.member.roles.cache.has('825913114473791548')) {
+                        let miktar = 4500
+message.channel.send('Maaşın Eklendi!')
+db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
+                    } else if(message.member.roles.cache.has('825913115752398849')) {
+                        let miktar = 4000
+message.channel.send('Maaşın Eklendi!')
+db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
+                    } else if(message.member.roles.cache.has('825913116898099200')) {
+                        let miktar = 3000
+message.channel.send('Maaşın Eklendi!')
+db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
+                    } else if(message.member.roles.cache.has('826148248774770708')) {
+                        let miktar = 4000
+message.channel.send('Maaşın Eklendi!')
+db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
+                    } else if(message.member.roles.cache.has('825913102511636500')) {
+                        let miktar = 6500
+message.channel.send('Maaşın Eklendi!')
+db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
+                    } else if(message.member.roles.cache.has('825913103366750238')) {
                         let miktar = 5000
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837201557090598952')) {
-                        let miktar = 13000
+                    } else if(message.member.roles.cache.has('826148666343161886')) {
+                        let miktar = 4000
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837200690430214166')) {
-                        let miktar = 19000
-message.channel.send('Maaşın Eklendi!')
-db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837201384004124682')) {
-                        let miktar = 16000
-message.channel.send('Maaşın Eklendi!')
-db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837201547821580289')) {
-                        let miktar = 10000
-message.channel.send('Maaşın Eklendi!')
-db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('837195368072609792')) {
-                        let miktar = 19000
+                    } else if(message.member.roles.cache.has('826149101347143760')) {
+                        let miktar = 5000
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
                     }
                             //    Yargı    //
-                    else if(message.member.roles.cache.has('837196104726478848')) {
-                        let miktar = 16000
+                    else if(message.member.roles.cache.has('825913119276007484')) {
+                        let miktar = 3500
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
                     }     else if(message.member.roles.cache.has('837196640908738580')) {
