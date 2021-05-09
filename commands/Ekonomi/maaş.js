@@ -7,24 +7,24 @@ const db = new JsonDatabase("./database/bakiye");
 exports.run = async (client, message, args) => {
     let miktar;
                        //    Siyasi    //
-                       if (message.member.roles.cache.has('836918933192835073')) {
-                        let miktar = 25000
+                       if (message.member.roles.cache.has('825913065672409138')) {
+                        let miktar = 12000
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('836919088889724940')) {
-                        let miktar = 24500
+                    } else if(message.member.roles.cache.has('825913066004152321')) {
+                        let miktar = 10000
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('836919177201451039')) {
-                        let miktar = 22000
+                    } else if(message.member.roles.cache.has('825913066994401310')) {
+                        let miktar = 10000
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('836958346614669342')) {
-                        let miktar = 22000
+                    } else if(message.member.roles.cache.has('838896564247199805')) {
+                        let miktar = 9250
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
-                    } else if(message.member.roles.cache.has('836920033044463657')) {
-                        let miktar = 22000
+                    } else if(message.member.roles.cache.has('838896573710336040')) {
+                        let miktar = 9250
 message.channel.send('Maaşın Eklendi!')
 db.add(`${message.guild.id}_${message.member.id}_bakiye`, miktar)
                     } else if(message.member.roles.cache.has('836929455812771840')) {
