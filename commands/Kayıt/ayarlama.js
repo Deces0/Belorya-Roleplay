@@ -5,7 +5,7 @@ exports.run = async (client, message, args) => {
         return message.reply("**Yetkin yok!**").then(msg => msg.delete({timeout:20000}))
     }
         if (message.author.bot) return; 
-          let channel = client.channels.cache.get("811839508370030643"); 
+          let channel = client.channels.cache.get("825913253158191125"); 
           const embed = new Discord.MessageEmbed()
           .setColor('BLUE')
           .setTitle("KIMLIK MENUSU")
