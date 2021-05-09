@@ -9,7 +9,8 @@ console.log("Emrinize Amadeyim");
 
 var randomMesajlar = [
 
-    "Fiobrum Discord Services"
+    "Yüksek Şura Tarafından Kodlandım"
+    "Belorya Roleplay"
 ]
 
 
