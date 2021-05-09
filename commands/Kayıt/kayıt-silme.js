@@ -4,7 +4,7 @@ const db = new JsonDatabase("./database/kimlik");
 const qdb = new JsonDatabase("./database/kimlik");
  
 exports.run = async (client, message, args) => {
-    if(message.member.roles.cache.has('811836325120573450')) {
+    if(message.member.roles.cache.has('825913063270121485')) {
         return message.reply("**Kayıt Yapmak İçin Yetkin Yok**").then(msg => msg.delete({timeout:20000}))
     }
     let kişi = message.mentions.members.first()
