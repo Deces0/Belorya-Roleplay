@@ -4,10 +4,10 @@ exports.run = async (client, message, args) => {
     let embed = new Discord.MessageEmbed()
     .setColor('BLUE')
     .setTitle('Kayıt Ekibi Çağrıldı')
-    .setImage('https://cdn.discordapp.com/attachments/837801359649538088/838375343102492732/NIRVANA_ROLEPLAY_3-1.png')
+    .setImage('https://media.discordapp.net/attachments/806133001737469952/835503279307620403/609601f80d4c9e3c9a740ef903da87e7.gif')
     .setFooter(message.guild.name , message.guild.iconURL({dynamic : true}))
     .setTimestamp()
-message.channel.send('<@&836916575839715348>')
+message.channel.send('<@&825913063270121485>')
 message.channel.send(embed)
 
 };
