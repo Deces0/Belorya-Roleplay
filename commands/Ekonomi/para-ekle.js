@@ -4,7 +4,7 @@ const Discord = require("discord.js");
 exports.run = async (client, message, args) => {
     const { JsonDatabase, YamlDatabase } = require("wio.db");
     const db = new JsonDatabase("./database/bakiye");
-if(!message.member.roles.cache.has('836881916674048012')) {
+if(!message.member.roles.cache.has('825913063270121485')) {
         return message.reply("**Para Eklemek İçin Yetkin Yok**").then(msg => msg.delete({timeout:20000}))
     }
     let user = message.mentions.users.first();
@@ -20,7 +20,7 @@ if(!message.member.roles.cache.has('836881916674048012')) {
     .setColor('DARKBLUE')
     .setTitle('Bakiye eklendi')
     .setThumbnail(user.avatarURL({dynamic:true}))
-    .setDescription(`Yeni Bakiye: ${bakiye} TL`)
+    .setDescription(`Yeni Bakiye: ${bakiye} Frang`)
     .setFooter(message.guild.name , message.guild.iconURL({dynamic : true}))
     .setTimestamp()
     message.channel.send(embed)
