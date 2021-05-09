@@ -5,7 +5,7 @@ exports.run = function(client, message, args) {
  
   var guildID = "836873530720256050";
  
-  var channelID = "838311298693333003"; 
+  var channelID = "826125168388734986"; 
  
   if (!öneri) {
     return message.reply(
